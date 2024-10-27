@@ -17,4 +17,4 @@ This project features an **ETL (Extract, Transform, Load) pipeline** designed to
 
 - Python 3.x
 - MongoDB
-- Required Python libraries: `pandas`, `pymongo`, `requests`, `beautifulsoup4`, `datetime', 'regEx', 'airflow'
+- Required Python libraries: `pandas`, `pymongo`, `requests`, `beautifulsoup4`, `datetime`, `regEx`, `airflow`
