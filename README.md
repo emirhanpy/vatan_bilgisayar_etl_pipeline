@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project features an **ETL (Extract, Transform, Load) pipeline** designed to extract data from the **Vatan Bilgisayar** webpage. The extracted data is processed and loaded into a MongoDB database and also saved in CSV format. Additionally, MongoDB queries are updated to provide data-driven insights, and **Looker Studio** is utilized for BI (Business Intelligence) analytics.
+This project features an **ETL (Extract, Transform, Load) pipeline** designed to extract data from the **Vatan Bilgisayar** webpage. The extracted data is processed and loaded into a MongoDB database and also saved in CSV format. Additionally, MongoDB queries are retrieved to provide data-driven insights, and **Looker Studio** is utilized for BI (Business Intelligence) analytics.
 
 ## Features
 
