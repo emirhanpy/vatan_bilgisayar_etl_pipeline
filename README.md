@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project features an **ETL (Extract, Transform, Load) pipeline** designed to extract data from the **Vatan Bilgisayar** webpage. The extracted data is processed and loaded into a MongoDB database and also saved in CSV format. Additionally, MongoDB queries are retrieved to provide data-driven insights, and **Looker Studio** is utilized for BI (Business Intelligence) analytics.
+This project features an **ETL (Extract, Transform, Load) pipeline** designed to extract data from the **Vatan Bilgisayar** webpage using **Python**. The extracted data is processed and loaded into a MongoDB database and also saved in CSV format. Additionally, **MongoDB** queries are retrieved to provide data-driven insights, and **Looker Studio** is utilized for BI (Business Intelligence) analytics.
 
 ## Features
 
@@ -11,7 +11,7 @@ This project features an **ETL (Extract, Transform, Load) pipeline** designed to
 - **Data Loading:** Loads the data into MongoDB and saves it in CSV format.
 - **ETL Airflow:** Creates a DAG for automating the ETL process.
 - **Data Analytics:** Retrieved MongoDB queries to obtain data-driven insights.
-- **Visualization:** Creates analytical reports using Google Looker Studio. https://lookerstudio.google.com/reporting/ad2c3769-a0a3-4206-8e59-ffb5e1330015/page/p_h3jinupdmd If you enter that link, You will see an additional page for filtering the data.
+- **Visualization:** Creates analytical reports using Google Looker Studio. https://lookerstudio.google.com/reporting/ad2c3769-a0a3-4206-8e59-ffb5e1330015/page/p_h3jinupdmd If you enter that link, You are going to see an additional page for filtering the data. Then, Choose a brand and you will see the statistics of that brand. 
 
 ### Requirements
 
